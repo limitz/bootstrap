@@ -1,0 +1,11 @@
+*.old
+*.swp
+*.swo
+*.jpg
+*.png
+*.jpeg
+*.bin
+*.tar
+*.zip
+__pycache__/
+build/
